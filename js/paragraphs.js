@@ -1,0 +1,6 @@
+const paragraphs = [
+     "Kazakh identity is of medieval origin and was strongly shaped by the foundation of the Kazakh Khanate between 1456 and 1465, when following disintegration of the Golden Horde, several tribes under the rule of the sultans Janibek and Kerei departed from the Khanate of Abu'l-Khayr Khan in hopes of forming a powerful khanate of their own.",
+    "Kazakh is used to refer to ethnic Kazakhs, while the term Kazakhstani usually refers to all inhabitants or citizens of Kazakhstan, regardless of ethnicity",
+    "Kazakh was a common term throughout medieval Central Asia, generally with regard to individuals or groups who had taken or achieved independence from a figure of authority. Timur described his own youth without direct authority as his Qazaqliq.",
+    "Kazakhs's history is full of nomadic civilisations of the Great Steppe, represented by numerous nomadic state entities, including the Sakas (Scytho-Iranians), the Huns, the Turkic Khaganate, the Western Turkic Khaganate, the Mongol Empire, the Golden Horde and the Kazakh Khanate, which was established in 1465."
+];
